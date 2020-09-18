@@ -7,5 +7,10 @@ API simples, apenas com uma rota GET, usando Node.js e Express.
 Faça o clone ou download dos arquivos, e em seguida informe o comando no terminal:
 
 ```
+npm config set '@bit:registry' https://node.bit.dev
+
+
 npm install
 ```
+
+
